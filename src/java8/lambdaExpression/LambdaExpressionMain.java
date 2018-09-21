@@ -1,3 +1,5 @@
+package java8.lambdaExpression;
+
 public class LambdaExpressionMain {
 
     public static void main(String[] args){
