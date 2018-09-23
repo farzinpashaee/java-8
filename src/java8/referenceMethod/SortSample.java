@@ -1,4 +1,4 @@
-package java8.referanceMethod;
+package java8.referenceMethod;
 
 import java.util.Arrays;
 import java.util.Collections;

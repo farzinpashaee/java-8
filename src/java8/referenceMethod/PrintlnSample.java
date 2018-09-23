@@ -1,4 +1,4 @@
-package java8.referanceMethod;
+package java8.referenceMethod;
 
 import java.util.ArrayList;
 import java.util.List;
