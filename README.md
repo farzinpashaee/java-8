@@ -7,8 +7,8 @@ To use this library you can add the jar file into your project.
 ### New features List
 You can find simple examples and more detail information about java 8 new features in the fallowing list: 
 - [Lambda Expression](https://github.com/farzinpashaee/java-8/tree/master/src/java8/lambdaExpression)
-- [Reference Method](https://github.com/farzinpashaee/java-8/tree/master/src/java8/referenceMethod) 
 - [Function Interface](https://github.com/farzinpashaee/java-8/tree/master/src/java8/functionInterface)
+- [Reference Method](https://github.com/farzinpashaee/java-8/tree/master/src/java8/referenceMethod) 
 - [default Method](https://github.com/farzinpashaee/java-8/tree/master/src/java8/defaultMethods)
 - [Streams API](https://github.com/farzinpashaee/java-8/tree/master/src/java8/streamsApi)
 
