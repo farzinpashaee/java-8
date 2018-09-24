@@ -6,7 +6,7 @@ public class LambdaExpression {
 
         // Multiple parameters with single line expression
         MathOperation add = ( a , b ) -> a + b ;
-        System.out.println(" > " + add.operation( 2 , 3 ));
+        System.out.println(add.operation( 2 , 3 ));
 
         // Single parameter (no parentheses) with multiple line expression {}
         Greeting greeting = name -> {
