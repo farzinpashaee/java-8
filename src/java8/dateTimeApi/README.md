@@ -2,7 +2,7 @@
 New date time api is an attempt to cover old date time api's drawbacks.  
 
 ## Example
-####Local DateTime API
+#### Local DateTime API
 LocalDateTime object can be used with a lot of features. 
 ```
 LocalDateTime currentTime = LocalDateTime.now();
@@ -33,7 +33,7 @@ LocalTime date5 = LocalTime.parse("10:25:37");
 System.out.println("Parsed string: " + date5);
 ```
 
-####Zoned DateTime API
+#### Zoned DateTime API
 Zoned date-time API is to be used when time zone is to be considered.
 ```
 // Get the current date and time
