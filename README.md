@@ -19,4 +19,5 @@ You can find simple examples and more detail information about java 8 new featur
 * **Farzin Pashaee** - *Initial work* - [Java-8](https://github.com/farzinpashaee/java-8)
 
 ## Resources
+- [tutorialspoint](https://www.tutorialspoint.com/java8/)
 
