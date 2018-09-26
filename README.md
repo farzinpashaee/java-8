@@ -12,9 +12,11 @@ You can find simple examples and more detail information about java 8 new featur
 - [default Method](https://github.com/farzinpashaee/java-8/tree/master/src/java8/defaultMethods)
 - [Streams API](https://github.com/farzinpashaee/java-8/tree/master/src/java8/streamsApi)
 - [New DateTime API](https://github.com/farzinpashaee/java-8/tree/master/src/java8/dateTimeApi)
+- [Nashorn JavaScript](https://github.com/farzinpashaee/java-8/tree/master/src/java8/nashornavaScript)
 
 ## Authors
 
 * **Farzin Pashaee** - *Initial work* - [Java-8](https://github.com/farzinpashaee/java-8)
 
+## Resources
 
