@@ -2,7 +2,7 @@
 It took about three years to move from Java 7 to 8. Java 8 is the most awaited and is a major feature release of Java programming language. In this repository we are going to check a couple of changes and new feathers added in java 8 using examples.
 
 ## Getting Started
-To use this library you can add the jar file into your project.
+You can run each example based on topic by running main method
 
 ### New features List
 You can find simple examples and more detail information about java 8 new features in the fallowing list: 
